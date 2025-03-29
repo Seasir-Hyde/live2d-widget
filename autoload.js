@@ -33,7 +33,7 @@ if (screen.width >= 768) {
 	]).then(() => {
 		// 配置选项的具体用法见 README.md
 		initWidget({
-			isLocalModel: true, // 使用本地模型
+			isLocalModel: true, // true使用本地模型
 			waifuPath: live2d_path + "waifu-tips.json",
 			modelsPath: live2d_path + "model",
 			modelListPath: live2d_path + "model/model_list.json",
