@@ -38,3 +38,7 @@
 
 **但是！我们强烈推荐自己进行配置，让看板娘更加适合你的网站！**  
 如果你有兴趣自己折腾的话，请看下面的详细说明。
+
+```sh
+https://raw.githubusercontent.com/Seasir-Hyde/live2d-widget/refs/heads/master/autoload.js
+```
